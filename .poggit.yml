@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KietTran0308/RandomBlockWL
+build-by-default: true
+branches:
+- master
+projects:
+  RandomBlockWL:
+    path: ""
+...
